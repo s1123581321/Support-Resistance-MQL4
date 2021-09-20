@@ -6,7 +6,6 @@ The code stores two levels at any point in time, the idea being to then build or
 
 See the image "level_example.PNG" in the repository for an example of the levels the are found by this code
 
-For questions or comments, you can message my reddit account: s1123581321
 */
 
 //Variable to run code once a minute
